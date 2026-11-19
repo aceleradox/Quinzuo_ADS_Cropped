@@ -2,7 +2,7 @@
  * Quinzuo AdsCropped CDN — v1.0.0
  * ------------------------------------------------------------
  * Uso:
- *   <script src="https://cdn.jsdelivr.net/gh/USER/quinzuo@main/quinzuo-adscropped.js"></script>
+ *   <script src="https://cdn.jsdelivr.net/gh/aceleradox/Quinzuo_ADS_Cropped@1.0.0/quinzuo-adscropped.jss"></script>
  *
  *   // Config global
  *   qz.config({ smartlink: 'https://ad.magnect.link/SEU_ID', cooldown: 30 });
